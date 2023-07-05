@@ -11,8 +11,9 @@ const Grid=()=>{
                 <div className="g2">Watch</div>
                 <div className="g3">Add Movie</div>
             </div>
-            <div className="col1">
-            </div>
+            <div className="col1"></div>
+            <div className="col2"></div>
+            <div className="col3">Watch</div>
             <Movie />
            </>
     )
